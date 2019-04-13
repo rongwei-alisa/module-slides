@@ -1,5 +1,7 @@
 # module-slides
 
+a PPT about front-end modules based on vue-mark-display
+
 ## Project setup
 ```
 npm install
